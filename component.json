@@ -1,0 +1,14 @@
+{
+  "name": "topojson",
+  "repo": "Crunch-io/topojson",
+  "description": "topojson - componentized",
+  "version": "1.4.4",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "topojson.js",
+  "scripts": [
+    "topojson.js"
+  ]
+}
